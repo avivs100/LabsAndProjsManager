@@ -1,0 +1,69 @@
+<div style="background-blend-mode: 15; background-image: url('./assets/blue.jpg');color: antiquewhite;
+background-repeat: no-repeat; overflow:hidden;  background-attachment: fixed; background-size:100%; height: 100% ;
+background-size: cover;  height: 100vh; ">
+  <div style="margin-left: 40% ; background-color: rgba(227, 243, 243, 0.411); width: fit-content; border-radius: 30px; ">
+    <div class="container">
+      <h1 style="padding: 20px;">Grades by course</h1>
+    </div>
+
+    <div class="container" style="padding-left: 12px;">
+      <mat-form-field appearance="fill">
+        <mat-label>Select Course</mat-label>
+        <mat-select [formControl]="selectedCourse" required>
+          <mat-option>Courses:</mat-option>
+          <mat-option *ngFor="let course of courseList" [value]="course" (click) = 'courseSelectedFunction()'>
+            {{course.name}}
+          </mat-option >
+        </mat-select>
+      </mat-form-field>
+    </div>
+    
+    <div id="LabsList" Class="tableScore" >
+
+      <ng-container *ngIf='isSelected'>
+        <h3>Labs grades List</h3>
+        <div style="margin-left: 25%;">
+          <thead>
+            <tr >
+              <th>Index</th>              
+              <th>Grade</th>
+            </tr>
+          </thead>
+
+          <tbody>
+            <tr *ngFor="let lab of selectedCourse.value.labs" >
+              <td>{{ lab.submissionNumber }}</td>
+              <td>{{ lab.score }}</td>
+            </tr>
+          </tbody>
+        </div>
+        
+        </ng-container>
+    
+  <br/>
+      <ng-container *ngIf='isSelected'>
+        <h3>Projects grades List</h3>
+        <div style="margin-left: 25%;">
+
+          <thead>            
+            <tr>
+              <th>Index</th>
+              <th>Grade</th>
+            </tr>
+          </thead>
+
+          <tbody>
+            <tr *ngFor="let project of selectedCourse.value.projects">
+              <td>{{ project.submissionNumber }}</td>
+              <td>{{ project.score }}</td>
+            </tr>
+          </tbody>
+
+        </div>
+        </ng-container>
+        <br/>
+        <br/>
+
+    </div>
+  </div>
+</div>

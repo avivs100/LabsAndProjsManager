@@ -1,0 +1,228 @@
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.AssemblyInfoInputs.cache
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.AssemblyInfo.cs
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\ScoreManager_Server.exe
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\ScoreManager_Server.deps.json
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\ScoreManager_Server.runtimeconfig.json
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\ScoreManager_Server.runtimeconfig.dev.json
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\ScoreManager_Server.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\ScoreManager_Server.pdb
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.RazorTargetAssemblyInfo.cache
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\obj\Debug\netcoreapp3.1\staticwebassets\ScoreManager_Server.StaticWebAssets.Manifest.cache
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\obj\Debug\netcoreapp3.1\staticwebassets\ScoreManager_Server.StaticWebAssets.xml
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.pdb
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.genruntimeconfig.cache
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.csproj.CopyComplete
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.csproj.CoreCompileInputs.cache
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\warnn\Desktop\web\project\server\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.csprojAssemblyReference.cache
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.csproj.AssemblyReference.cache
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.AssemblyInfoInputs.cache
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.AssemblyInfo.cs
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.csproj.CoreCompileInputs.cache
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.MvcApplicationPartsAssemblyInfo.cache
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.pdb
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\appsettings.json
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\ScoreManager_Server.exe
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\ScoreManager_Server.deps.json
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\ScoreManager_Server.runtimeconfig.json
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\ScoreManager_Server.runtimeconfig.dev.json
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\ScoreManager_Server.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\ScoreManager_Server.pdb
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\Humanizer.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\obj\Debug\netcoreapp3.1\staticwebassets\ScoreManager_Server.StaticWebAssets.Manifest.cache
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\obj\Debug\netcoreapp3.1\staticwebassets\ScoreManager_Server.StaticWebAssets.xml
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\obj\Debug\netcoreapp3.1\scopedcss\bundle\ScoreManager_Server.styles.css
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.RazorTargetAssemblyInfo.cache
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.csproj.CopyComplete
+Z:\OneDrive - Alex\study\שנה ד\סמסטר ב\web\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.genruntimeconfig.cache
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\ScoreManager_Server.exe
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\ScoreManager_Server.deps.json
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\ScoreManager_Server.runtimeconfig.json
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\ScoreManager_Server.runtimeconfig.dev.json
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\ScoreManager_Server.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\ScoreManager_Server.pdb
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.csproj.AssemblyReference.cache
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.AssemblyInfoInputs.cache
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.AssemblyInfo.cs
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.csproj.CoreCompileInputs.cache
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\obj\Debug\netcoreapp3.1\staticwebassets\ScoreManager_Server.StaticWebAssets.Manifest.cache
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\obj\Debug\netcoreapp3.1\staticwebassets\ScoreManager_Server.StaticWebAssets.xml
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\obj\Debug\netcoreapp3.1\scopedcss\bundle\ScoreManager_Server.styles.css
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.RazorTargetAssemblyInfo.cache
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.csproj.CopyComplete
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.dll
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.pdb
+C:\Users\avivs100\git\WebAppCourse\ScoreManager_Server\obj\Debug\netcoreapp3.1\ScoreManager_Server.genruntimeconfig.cache

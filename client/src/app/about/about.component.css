@@ -1,0 +1,53 @@
+h1{
+    color: #db351f;
+     font-family: 'Rouge Script', cursive; 
+     font-size: 70px; 
+     font-weight: normal; 
+     line-height: 48px; 
+     margin: 0 0 50px;
+     text-align: center; 
+     text-shadow: 1px 1px 2px #082b34; 
+}
+h2{
+    color: #e6ab40;
+     font-family: 'Rouge Script', cursive; 
+     font-size: 40px; 
+     font-weight: normal; 
+     line-height: 48px; 
+     margin: 0 0 50px;
+     text-align: center; 
+     text-shadow: 1px 1px 2px #082b34; 
+}
+h4{
+    color: #b02bca;
+     font-family: 'Rouge Script', cursive; 
+     font-size: 20px; 
+     font-weight: normal; 
+     line-height: 48px; 
+     margin: 0 0 50px;
+     text-align: start; 
+     text-shadow: 1px 1px 2px #082b34;
+     background-color: rgba(0, 0, 0, 0.507);
+     width: 300px;
+     border: antiquewhite;
+     border-radius: 25px;
+     
+     
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+  }
+  
+  /* Create two equal columns that sits next to each other */
+  .column {
+    flex: 30%;
+    /* padding: 0 4px; */
+  }
+  
+  .column img {
+    margin-top: 8px;
+    vertical-align: middle;
+  }

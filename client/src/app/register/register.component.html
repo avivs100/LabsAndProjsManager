@@ -1,0 +1,38 @@
+<div style="padding-top: 20%;background-image: url('./assets/booksPhoto.jpg');color: antiquewhite; background-repeat: no-repeat; overflow:hidden;  background-attachment: fixed; background-size:100%; height: 100% ;">
+   
+  <div class="container" style="margin-left: 40% ;max-width: 13%;background-color: rgba(128, 128, 128, 0.788); border-radius: 25px;">
+    <h1 style="text-align: center">
+        Registeration Form
+    </h1>
+    <form class="example-form" >
+        <mat-label>ID number </mat-label>
+        <mat-form-field class="example-full-width">
+            <input type="text" [(ngModel)]="loginId" matInput [formControl]="IdFormControl" placeholder="Student ID">
+            <mat-error *ngIf="!IdFormControl.hasError('required')">
+                You must enter your ID
+            </mat-error>
+        </mat-form-field>
+    </form>
+    <form class="example-form">
+      <mat-label>First Name    </mat-label>
+      <mat-form-field class="example-full-width">
+          <input type="text" [(ngModel)]="studentFirstName" matInput [formControl]="firstNameFormControl" placeholder="First Name">
+          <mat-error *ngIf="!firstNameFormControl.hasError('required')">
+              You must enter your first name
+          </mat-error>
+      </mat-form-field>
+  </form>
+  <form class="example-form">
+    <mat-label>Last Name    </mat-label>
+    <mat-form-field class="example-full-width">
+        <input type="text" [(ngModel)]="studentLastName" matInput [formControl]="lastNameFormControl" placeholder="Last Name">
+        <mat-error *ngIf="!lastNameFormControl.hasError('required')">
+            You must enter your last name
+        </mat-error>
+    </mat-form-field>
+  </form>
+  <button  mat-flat-button color="primary" (click)="register()" [disabled]="lastNameFormControl.hasError('required') || firstNameFormControl.hasError('required')||IdFormControl.hasError('required')" 
+   style="margin-left: 32%;">Register</button>
+  </div>
+  </div>
+  

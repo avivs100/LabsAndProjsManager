@@ -1,0 +1,29 @@
+<div style="padding-top: 20%; ">
+<div class="example-container" >
+    <mat-toolbar color="primary" class="example-toolbar">
+      <button mat-icon-button (click)="snav.toggle()"><mat-icon>menu</mat-icon></button>
+      <h1 class="example-app-name">Labs And Projects manager</h1>
+      <h1 class="example-app-name" style="margin-left:30% ; padding-right: 30%;"> {{firstName}} {{lastName}}</h1>
+      <button (click)="ExitFunction()"><mat-icon>input</mat-icon></button>
+    </mat-toolbar>
+  
+    <mat-sidenav-container class="example-sidenav-container"
+                           [style.marginTop.px]="56" style="background-color: transparent;">
+      <mat-sidenav #snav [mode]="'side'"
+                   [fixedInViewport]="true" fixedTopGap="56">
+        <mat-nav-list>
+          <a mat-list-item routerLink="grades">My Courses</a>
+          <a mat-list-item routerLink="manage">Courses Submission</a>
+          <a mat-list-item routerLink="histogram">Grade chart</a>
+          <a mat-list-item routerLink="about">About Us</a>
+        </mat-nav-list>
+      </mat-sidenav>
+  
+      <mat-sidenav-content>
+        <div>
+        <router-outlet></router-outlet>
+      </div>
+      </mat-sidenav-content>
+    </mat-sidenav-container>
+  </div>
+</div>
