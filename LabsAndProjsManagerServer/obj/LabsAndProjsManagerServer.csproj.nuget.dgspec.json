@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\avivs100\\git\\WebAppCourse\\ScoreManager_Server\\LabsAndProjsManagerServer.csproj": {}
+    "C:\\Users\\avivs100\\git\\LabsAndProjsManager\\LabsAndProjsManagerServer\\LabsAndProjsManagerServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\avivs100\\git\\WebAppCourse\\ScoreManager_Server\\LabsAndProjsManagerServer.csproj": {
+    "C:\\Users\\avivs100\\git\\LabsAndProjsManager\\LabsAndProjsManagerServer\\LabsAndProjsManagerServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\avivs100\\git\\WebAppCourse\\ScoreManager_Server\\LabsAndProjsManagerServer.csproj",
+        "projectUniqueName": "C:\\Users\\avivs100\\git\\LabsAndProjsManager\\LabsAndProjsManagerServer\\LabsAndProjsManagerServer.csproj",
         "projectName": "LabsAndProjsManagerServer",
-        "projectPath": "C:\\Users\\avivs100\\git\\WebAppCourse\\ScoreManager_Server\\LabsAndProjsManagerServer.csproj",
+        "projectPath": "C:\\Users\\avivs100\\git\\LabsAndProjsManager\\LabsAndProjsManagerServer\\LabsAndProjsManagerServer.csproj",
         "packagesPath": "C:\\Users\\avivs100\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\avivs100\\git\\WebAppCourse\\ScoreManager_Server\\obj\\",
+        "outputPath": "C:\\Users\\avivs100\\git\\LabsAndProjsManager\\LabsAndProjsManagerServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\avivs100\\AppData\\Roaming\\NuGet\\NuGet.Config",

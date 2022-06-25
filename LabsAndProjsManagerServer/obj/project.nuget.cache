@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nXxR5JyPqurAEIeeKSM/OZuEbgQYShruIpM+alpGAt7WxJa4gt79twusK7TBJyZZXmr/8llEK7p7vHTf8Bf1vw==",
+  "dgSpecHash": "SBCiO/T4k4jrBNFtkCg4Bt/rHSDgQJz442RD1yy9AiQD6cOOXJ5kObdStc6RDZzG1IZpNWGxzulTTQfGpiI3nA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\avivs100\\git\\WebAppCourse\\ScoreManager_Server\\LabsAndProjsManagerServer.csproj",
+  "projectFilePath": "C:\\Users\\avivs100\\git\\LabsAndProjsManager\\LabsAndProjsManagerServer\\LabsAndProjsManagerServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\avivs100\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\avivs100\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
